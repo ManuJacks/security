@@ -2,10 +2,5 @@
 
 ### Description
 
-We are doing some learning with OpenVPN solutions 
-to create a secure network and learn colaboration
-in git.
+We will be doing the Python course here.
 
-## Agenda
-
-Explore existing OpenVPN Perl libraries.
